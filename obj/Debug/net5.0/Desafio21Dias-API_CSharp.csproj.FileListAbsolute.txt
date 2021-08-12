@@ -1,0 +1,16 @@
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/bin/Debug/net5.0/Desafio21Dias-API_CSharp
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/bin/Debug/net5.0/Desafio21Dias-API_CSharp.deps.json
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/bin/Debug/net5.0/Desafio21Dias-API_CSharp.runtimeconfig.json
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/bin/Debug/net5.0/Desafio21Dias-API_CSharp.runtimeconfig.dev.json
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/bin/Debug/net5.0/Desafio21Dias-API_CSharp.dll
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/bin/Debug/net5.0/ref/Desafio21Dias-API_CSharp.dll
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/bin/Debug/net5.0/Desafio21Dias-API_CSharp.pdb
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/obj/Debug/net5.0/Desafio21Dias-API_CSharp.csproj.AssemblyReference.cache
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/obj/Debug/net5.0/Desafio21Dias-API_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/obj/Debug/net5.0/Desafio21Dias-API_CSharp.AssemblyInfoInputs.cache
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/obj/Debug/net5.0/Desafio21Dias-API_CSharp.AssemblyInfo.cs
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/obj/Debug/net5.0/Desafio21Dias-API_CSharp.csproj.CoreCompileInputs.cache
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/obj/Debug/net5.0/Desafio21Dias-API_CSharp.dll
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/obj/Debug/net5.0/ref/Desafio21Dias-API_CSharp.dll
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/obj/Debug/net5.0/Desafio21Dias-API_CSharp.pdb
+/home/edilson/Área de Trabalho/Treinamento/Desafio21Dias-API_CSharp/obj/Debug/net5.0/Desafio21Dias-API_CSharp.genruntimeconfig.cache
